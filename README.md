@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=İrem%20Baysal&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Mobile%20Developer&descSize=20&descAlign=50&descAlignY=65" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irm-ba&theme=github_dark" />
 </p>
 ...<h1 align="center">Hi 👋, I'm İrem Baysal</h1>
 
