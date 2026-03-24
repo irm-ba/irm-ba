@@ -44,3 +44,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/irm-ba/irm-ba/blob/output/github-contribution-grid-snake.svg)
