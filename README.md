@@ -46,4 +46,6 @@
 </p>
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/irm-ba/irm-ba/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/irm-ba/irm-ba/blob/output/github-contribution-grid-snake.svg" />
+</p>
