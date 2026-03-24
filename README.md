@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=2C5364&center=true&vCenter=true&width=600&height=80&lines=İrem+Baysal;Web+%26+Mobile+Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=İrem%20Baysal&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%20%26%20Mobile%20Developer&descSize=20&descAlign=50&descAlignY=65" />
 </p>
 ...<h1 align="center">Hi 👋, I'm İrem Baysal</h1>
 
