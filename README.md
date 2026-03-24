@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=İrem%20Baysal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=2C5364&center=true&vCenter=true&width=600&height=80&lines=İrem+Baysal;Web+%26+Mobile+Developer" />
 </p>
-## Hi there 👋
 ...<h1 align="center">Hi 👋, I'm İrem Baysal</h1>
 
 <p align="center">
