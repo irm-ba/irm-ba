@@ -1,16 +1,46 @@
 ## Hi there 👋
+...<h1 align="center">Hi 👋, I'm İrem Baysal</h1>
 
-<!--
-**irm-ba/irm-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Computer+Programmer;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Programming Graduate
+- 💻 Web & Mobile Developer
+- 🚀 PHP, C#, ASP.NET, Flutter
+- 🌱 Always learning new technologies
+- 🧠 Passionate about building useful projects
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,dotnet,flutter,dart,vue,firebase,mysql,html,css,js" />
+</p>
+
+## 🚀 Featured Project
+
+### 🐾 FELVERA (TÜBİTAK 2209-A)
+- Animal welfare focused application
+- Built with Flutter (Dart)
+- Contributed to web development
+- Worked on user analysis & research
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irm-ba&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irm-ba&layout=compact&theme=tokyonight" />
+</p>
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/irem-baysal-3590ab200/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ibaysal250@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
